@@ -37,10 +37,14 @@ Work experience
 Skills
 ======
 * Programming Language: C, Verilog, Python
-* IC Design: Design Complier, VCS, Verdi, Modelsim, Spyglass, ···
+* IC Design
+  * Tools: Design Complier, VCS, Verdi, Modelsim, Spyglass, ···
+  * Application Knowledge: AMBA, SoC, RISC-V, ···
 * Embedded System
-  * Hardware: PCB design and Layout with Altium Designer 
+  * Hardware: PCB design and Layout with Altium Designer
   * Software: MCU (like STM32, ESP32), FPGA (AMD&Xilinx Vitis, AMD&Xilinx Vivado and Intel&Altera Quartus)
+
+> To be honest, I cannot claim to be proficient in these skills at the level of an industry engineer, but generally these skills have been sufficient for my research, projects and competition needs in school.
 
 Publications
 ======
