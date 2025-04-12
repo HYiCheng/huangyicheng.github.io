@@ -3,7 +3,7 @@ title: "ESC-NTT: An Elastic, Seamless and Compact Architecture for Multi-Paramet
 collection: publications
 category: conferences
 permalink: /publication/2024-03-DATE-ESC-NTT-1.md
-date: 2024-03
+date: 2024-03-27
 venue: '2024 Design, Automation & Test in Europe Conference & Exhibition (DATE)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10546833'
