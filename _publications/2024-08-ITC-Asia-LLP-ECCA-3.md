@@ -1,11 +1,11 @@
 ---
 title: "LLP-ECCA: A Low-Latency and Programmable Framework for Elliptic Curve Cryptography Accelerators"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-08-ITC-Asia-LLP-ECCA-3.md
 excerpt: 'This paper has been nominated for Best Paper'
 date: 2024-08-20
-venue: 'Conference 2'
+venue: '2024 IEEE International Test Conference in Asia (ITC-Asia)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://ieeexplore.ieee.org/document/10661323'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
