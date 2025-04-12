@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Integrated Circuit, Beihang University, 2023.09 - 2026.01 (expected)
+* B.S. in Microelectronics, Southwest Jiaotong University, 2019.09-2023.06
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,15 +31,16 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+  注释掉了
+  -->
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: C, Verilog, Python
+* IC Design: Design Complier, VCS, Verdi, Modelsim, Spyglass, ···
+* Embedded System
+  * Hardware: PCB design and Layout with Altium Designer 
+  * Software: MCU (like STM32, ESP32), FPGA (AMD&Xilinx Vitis, AMD&Xilinx Vivado and Intel&Altera Quartus)
 
 Publications
 ======
@@ -58,7 +59,10 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+  注释掉了
+-->
