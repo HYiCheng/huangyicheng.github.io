@@ -20,9 +20,8 @@ Getting started
 1. 
 1. 
 1. 
-assets/Yicheng_CV_v0_3.pdf
+
 You can find my CV here:[Yicheng Huang’s Curriculum Vitae](./assets/Yicheng_CV_v0_3.pdf).
-You can find my path here:[Yicheng Huang’s Curriculum Vitae](./Yicheng_CV_v0_3.pdf).
 
 I’m actively seeking opportunities to pursue a Phd’s degree starting from Spring/Fall 2026.
 ======
