@@ -13,7 +13,7 @@ title                    : "Yicheng Huang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yicheng Huang (黄亦成)"
 description              : &description "a second year graduate student from Beihang University"
-url                      : https://hyicheng.github.io/huangyicheng.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : yichenghuang.space #https://hyicheng.github.io/huangyicheng.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HYiCheng/huangyicheng.github.io"
 
