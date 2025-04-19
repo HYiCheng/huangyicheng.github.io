@@ -13,8 +13,10 @@ My research interests include designing acceleration algorithms for various real
 
 I’m actively seeking opportunities to pursue a Ph.D. degree starting from Spring/Fall 2026.
 ======
+
 You can find my CV here:
 ------
+
 [简历](./assets/Yicheng_CV_v0_3.pdf)
 
 [Yicheng Huang’s Curriculum Vitae(EN)](./assets/Yicheng_CV_EN.pdf)
